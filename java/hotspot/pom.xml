@@ -6,7 +6,7 @@
     <artifactId>prometheus-examples-hotspot</artifactId>
     <packaging>jar</packaging>
     <version>0.1.0-SNAPSHOT</version>
-    <name>Prometheus Examples | Java | Hotspot</name>
+    <name>Prometheus Examples | Hotspot</name>
     <url>http://github.com/tachesimazzoca/prometheus-examples/</url>
     <properties>
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
