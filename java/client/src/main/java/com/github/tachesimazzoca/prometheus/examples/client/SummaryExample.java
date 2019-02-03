@@ -1,7 +1,6 @@
 package com.github.tachesimazzoca.prometheus.examples.client;
 
 import io.prometheus.client.CollectorRegistry;
-import io.prometheus.client.Gauge;
 import io.prometheus.client.Summary;
 
 public class SummaryExample {
